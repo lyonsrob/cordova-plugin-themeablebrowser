@@ -59,7 +59,7 @@
         <resource-file src="src/android/res/drawable-xhdpi/forward.png" target="res/drawable-xhdpi/forward.png" />
         <resource-file src="src/android/res/drawable-xhdpi/forward_pressed.png" target="res/drawable-xhdpi/forward_pressed.png" />
         <resource-file src="src/android/res/drawable-xhdpi/share.png" target="res/drawable-xhdpi/share.png" />
-        <resource-file src="src/android/res/drawable-xhdpi/share.png" target="res/drawable-xhdpi/share.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/share_pressed.png" target="res/drawable-xhdpi/share_pressed.png" />
     </platform>
 
     <!-- ios -->
