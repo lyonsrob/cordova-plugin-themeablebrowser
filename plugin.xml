@@ -79,15 +79,15 @@
 	    <framework src="CoreGraphics.framework" />
 	
 	<!--  Image resources -->
-        <resource-file src="src/ios/Resources/close@2x.png" target="Resources/close@2x.png" />
-        <resource-file src="src/ios/Resources/close_pressed@2x.png" target="Resources/close_pressed@2x.png" />
-        <resource-file src="src/ios/Resources/menu@2x.png" target="Resources/menu@2x.png" />
-        <resource-file src="src/ios/Resources/menu_pressed@2x.png" target="Resources/menu_pressed@2x.png" />
-        <resource-file src="src/ios/Resources/back@2x.png" target="Resources/back@2x.png" />
-        <resource-file src="src/ios/Resources/back_pressed@2x.png" target="Resources/back_pressed@2x.png" />
-        <resource-file src="src/ios/Resources/forward@2x.png" target="Resources/forward@2x.png" />
-        <resource-file src="src/ios/Resources/forward_pressed@2x.png" target="Resources/forward_pressed@2x.png" />
-        <resource-file src="src/ios/Resources/share@2x.png" target="Resources/share@2x.png" />
-        <resource-file src="src/ios/Resources/share_pressed@2x.png" target="Resources/share_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/close@2x.png" />
+        <resource-file src="src/ios/Resources/close_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/menu@2x.png" />
+        <resource-file src="src/ios/Resources/menu_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/back@2x.png" />
+        <resource-file src="src/ios/Resources/back_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/forward@2x.png" />
+        <resource-file src="src/ios/Resources/forward_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/share@2x.png" />
+        <resource-file src="src/ios/Resources/share_pressed@2x.png" />
     </platform>
 </plugin>
